@@ -3,12 +3,12 @@
     <channel>
         <title>SetMaster</title>
         <item>
-            <title>1.29.0</title>
-            <pubDate>Thu, 05 Nov 2026 11:10:53 -0800</pubDate>
-            <sparkle:version>132</sparkle:version>
-            <sparkle:shortVersionString>1.29.0</sparkle:shortVersionString>
+            <title>1.29.1</title>
+            <pubDate>Thu, 05 Nov 2026 11:30:12 -0800</pubDate>
+            <sparkle:version>133</sparkle:version>
+            <sparkle:shortVersionString>1.29.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SetmasterLive/SetMaster-Updates/releases/download/development/SetMaster-1.29.0.zip" length="999164113" type="application/octet-stream" sparkle:edSignature="D+H6KvIDHN6yhXVxo4UDc6aptc+EmAhZH7Hd6OxGqLexnjAse32oepbhXt+eUXuqHF7qauhtc1J72GdZhY3KBw=="/>
+            <enclosure url="https://github.com/SetmasterLive/SetMaster-Updates/releases/download/development/SetMaster-1.29.1.zip" length="999164129" type="application/octet-stream" sparkle:edSignature="R/dqzb5fuTSjngTFZOLBSqOovHcZiGZxNzO2K0FC17oClYSzbngQzIYVJPJXTMjBP7VyezSBX/h1IhTb4VT+Dw=="/>
         </item>
     </channel>
 </rss>
