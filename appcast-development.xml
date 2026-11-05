@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SetMaster</title>
+        <item>
+            <title>1.29.0</title>
+            <pubDate>Thu, 05 Nov 2026 11:10:53 -0800</pubDate>
+            <sparkle:version>132</sparkle:version>
+            <sparkle:shortVersionString>1.29.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SetmasterLive/SetMaster-Updates/releases/download/development/SetMaster-1.29.0.zip" length="999164113" type="application/octet-stream" sparkle:edSignature="D+H6KvIDHN6yhXVxo4UDc6aptc+EmAhZH7Hd6OxGqLexnjAse32oepbhXt+eUXuqHF7qauhtc1J72GdZhY3KBw=="/>
+        </item>
+    </channel>
+</rss>
