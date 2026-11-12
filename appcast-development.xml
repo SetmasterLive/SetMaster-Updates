@@ -3,18 +3,27 @@
     <channel>
         <title>SetMaster</title>
         <item>
+            <title>1.30.2</title>
+            <pubDate>Wed, 11 Nov 2026 16:28:37 -0800</pubDate>
+            <sparkle:version>138</sparkle:version>
+            <sparkle:shortVersionString>1.30.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SetmasterLive/SetMaster-Updates/releases/download/development/SetMaster-1.30.2.zip" length="999304498" type="application/octet-stream" sparkle:edSignature="O0FOlrkWpBH5B1b7mGcsmYrKS1m1ZX2H4DUvJfg74w6klqFSH+0/EV0fe/Ydr3VJIgnb1CnFcGyFc0hD0psdAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/SetmasterLive/SetMaster-Updates/releases/download/development/SetMaster138-137.delta" sparkle:deltaFrom="137" length="1227374" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="l2SJeRkxcEop9tcOHxuhlPvKtXyBJJhHY4DOLtPlIJ5BDeBsiHAD+0hX/Xetv4RjI7/sae7m5wAxaTsRd6ddCg=="/>
+                <enclosure url="https://github.com/SetmasterLive/SetMaster-Updates/releases/download/development/SetMaster138-136.delta" sparkle:deltaFrom="136" length="1488242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XpqMEnjTx6S/Cl0wiZrm0ikM/yzDjSFN4tbHc7mXl+dAynJeqyiNH1xX7s06hrconlYbTSQGdaVmkxkVtJVHCQ=="/>
+                <enclosure url="https://github.com/SetmasterLive/SetMaster-Updates/releases/download/development/SetMaster138-135.delta" sparkle:deltaFrom="135" length="2228410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ov442KWrXw7Ug/A2sa1kbyWoJfSL7IgVmKEigUYT8e5vC6o+6XQCfpJV9cgeyJuloOSkJfevZgOGT5KBYWDfDw=="/>
+                <enclosure url="https://github.com/SetmasterLive/SetMaster-Updates/releases/download/development/SetMaster138-134.delta" sparkle:deltaFrom="134" length="2286090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NHnaqXSxbJxPc0RTeYEOoNJ7puROAPuLLXqT8QkSSuYYi40zxz2VL2ym73LpF/80D8/iescs6l9yWcMJpo44Dw=="/>
+                <enclosure url="https://github.com/SetmasterLive/SetMaster-Updates/releases/download/development/SetMaster138-133.delta" sparkle:deltaFrom="133" length="2318558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="g+tsPB/Mldzf0xUhwjVQG/uF9jDkBf1YebJe5hEdFFgdUi9JTM57qRJVYig7slr4iBFornRMrFU+Tt+NnHPdBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.30.1</title>
             <pubDate>Wed, 11 Nov 2026 15:59:51 -0800</pubDate>
             <sparkle:version>137</sparkle:version>
             <sparkle:shortVersionString>1.30.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/SetmasterLive/SetMaster-Updates/releases/download/development/SetMaster-1.30.1.zip" length="999300735" type="application/octet-stream" sparkle:edSignature="OUVsBGP5yjdXMlTWzO3o4YO5PJuRoT7iO7x3ZuKJrOxvYe9FUOcL9Ff2CRGZab1yzzFkCYkudgvlpvqqkyqVDw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/SetmasterLive/SetMaster-Updates/releases/download/development/SetMaster137-136.delta" sparkle:deltaFrom="136" length="1386450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RDHzrCdKDsgn/1cOdiFXzJDAHzvlfK1CxTNoizEZpjkpshwNx49dau14YbVbiGV/qccM3fDhmj+pysZYj5nxAg=="/>
-                <enclosure url="https://github.com/SetmasterLive/SetMaster-Updates/releases/download/development/SetMaster137-135.delta" sparkle:deltaFrom="135" length="2230742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/nqB0O98hMjTnYmnRIX/LyI+xjC3+Vv+j6oc4UEro+gjcnLotHMe2rVzqpaKXUo0/UZmczkFTbckPQky0goXCw=="/>
-                <enclosure url="https://github.com/SetmasterLive/SetMaster-Updates/releases/download/development/SetMaster137-134.delta" sparkle:deltaFrom="134" length="2286762" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="duYwir2tW5zzFTjmta50j1lEyQhTR52jN4Ll/lXxREgdu894DLYo2UOQZXQKj1NOr/kXDdqJePFeaKYWEbrQAg=="/>
-                <enclosure url="https://github.com/SetmasterLive/SetMaster-Updates/releases/download/development/SetMaster137-133.delta" sparkle:deltaFrom="133" length="2283682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EmfLma+zm0E1Vt7X4AiP9MIRETIxxSeKFAN+1hl2pkIOXJdg7aoblpjbafkNviZ55Y2dlo4NWR+1NvuXRmAWCg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.30.0</title>
@@ -23,14 +32,6 @@
             <sparkle:shortVersionString>1.30.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/SetmasterLive/SetMaster-Updates/releases/download/development/SetMaster-1.30.0.zip" length="999295123" type="application/octet-stream" sparkle:edSignature="QQP6SIITY5xRYbqgeCNwDkin11sGMOpoYvN8oMx9EW4wkaNaENZxL6UuCd5YsiOcDLTScFB3ff3Wizsq7NSxAQ=="/>
-        </item>
-        <item>
-            <title>1.29.3</title>
-            <pubDate>Wed, 11 Nov 2026 12:21:05 -0800</pubDate>
-            <sparkle:version>135</sparkle:version>
-            <sparkle:shortVersionString>1.29.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SetmasterLive/SetMaster-Updates/releases/download/development/SetMaster-1.29.3.zip" length="999214615" type="application/octet-stream" sparkle:edSignature="PqNQzOo6cgSTi3diq8BsFnW5AyKY5XWdWVxrKhQ2XCnuhHBkBitCMJ01xV2fOkGa0YM4ScUT5h2Hr92qnnMZBQ=="/>
         </item>
     </channel>
 </rss>
